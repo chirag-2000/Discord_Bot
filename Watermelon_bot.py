@@ -265,7 +265,7 @@ async def clear_error(ctx,error):
         await ctx.send("please specify amount of message to be cleared (ex: !clear 2)")
 
         
-client.run('ODM1NzczNzY1NDQyOTk0MjA3.YIUU-Q.FHuOPUgUXgiW23oTXOOoAZrZQI0') #token  #makes bot go online
+client.run('') #token  #makes bot go online
         
     
     
