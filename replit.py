@@ -312,7 +312,7 @@ async def clear_error(ctx,error):
 
 
 keep_alive.keep_alive()
-client.run('ODM1NzczNzY1NDQyOTk0MjA3.YIUU-Q.FHuOPUgUXgiW23oTXOOoAZrZQI0') #token  #makes bot go online
+client.run('') #token  #makes bot go online
         
     
     
